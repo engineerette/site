@@ -5,9 +5,25 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Aug 2020 23:13:22 -0400</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2020 23:13:22 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2020 20:39:43 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2020 20:39:43 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Audience Expertise Categories in Technical Communication</title>
+        <description>&lt;p&gt;When conveying technical information, some audiences require more definition and simplification than others. To communicate effectively, technical language needs to be tailored to the audience’s technical level. In general, there are three levels of technical audiences: expert, informed, and general.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Sep 2020 20:11:32 -0400</pubDate>
+        <link>/audience-expertise-categories-in-technical-communication/</link>
+        <guid isPermaLink="true">/audience-expertise-categories-in-technical-communication/</guid>
+        
+        <tag>Soft Skills</tag>
+        
+        
+        <category>Workplace Tips</category>
+        
+      </item>
     
       <item>
         <title>Professional Voicemail Greeting Guide for Job Seekers</title>
@@ -170,28 +186,6 @@
         <category>School Survival</category>
         
         <category>Personal Life</category>
-        
-      </item>
-    
-      <item>
-        <title>First Year Engineering Survival Guide</title>
-        <description>&lt;p&gt;Congratulations, you made it into engineering! It’s time to celebrate the start of fresh beginnings, new friendships and exciting adventures, but don’t party too hard. Becoming an engineering student comes with a big lifestyle transition that can shake up your life, from relationships to academics. Remember that getting into engineering is hard, but getting out is harder.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 03 Sep 2019 02:10:04 -0400</pubDate>
-        <link>/first-year-engineering-survival-guide/</link>
-        <guid isPermaLink="true">/first-year-engineering-survival-guide/</guid>
-        
-        <tag>Wellness</tag>
-        
-        <tag>Study</tag>
-        
-        <tag>Growing Up</tag>
-        
-        <tag>Time Management</tag>
-        
-        
-        <category>School Survival</category>
         
       </item>
     
