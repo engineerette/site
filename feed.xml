@@ -5,13 +5,13 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Sep 2020 20:39:43 -0400</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2020 20:39:43 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 21:05:54 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 21:05:54 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Audience Expertise Categories in Technical Communication</title>
-        <description>&lt;p&gt;When conveying technical information, some audiences require more definition and simplification than others. To communicate effectively, technical language needs to be tailored to the audience’s technical level. In general, there are three levels of technical audiences: expert, informed, and general.&lt;/p&gt;
+        <description>&lt;p&gt;Whether you’re writing a client report, selling yourself during an interview, or presenting to executives, understanding your audience’s technical level is crucial for technical communications.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 09 Sep 2020 20:11:32 -0400</pubDate>
