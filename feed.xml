@@ -5,9 +5,25 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2020 21:05:54 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2020 21:05:54 -0400</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2020 23:35:02 -0400</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2020 23:35:02 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Technical Assessment Styles in Engineering Interviews</title>
+        <description>&lt;p&gt;Technical interviews gauge a job candidate’s technical skills. Every engineering jobs require different skills, and so every interview is unique. Despite this, all technical interviews are essentially a series of assessments.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2020 23:32:21 -0400</pubDate>
+        <link>/technical-assessment-styles-in-engineering-interviews/</link>
+        <guid isPermaLink="true">/technical-assessment-styles-in-engineering-interviews/</guid>
+        
+        <tag>Interview</tag>
+        
+        
+        <category>Job Search</category>
+        
+      </item>
     
       <item>
         <title>Audience Expertise Categories in Technical Communication</title>
@@ -166,26 +182,6 @@
         
         
         <category>School Survival</category>
-        
-      </item>
-    
-      <item>
-        <title>Studying Engineering without Passion: You Are Not Alone</title>
-        <description>&lt;p&gt;We’ve all heard of the superstar engineers, the dreamers who make the world a better place. As inspirational as that sounds, this persona does not fit majority of real-life engineers. Many engineers chose their career for reasons besides passion and that’s okay.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 20 Sep 2019 22:38:04 -0400</pubDate>
-        <link>/studying-engineering-without-passion-you-are-not-alone/</link>
-        <guid isPermaLink="true">/studying-engineering-without-passion-you-are-not-alone/</guid>
-        
-        <tag>Passion</tag>
-        
-        <tag>Impostor Syndrome</tag>
-        
-        
-        <category>School Survival</category>
-        
-        <category>Personal Life</category>
         
       </item>
     
