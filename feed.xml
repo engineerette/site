@@ -5,9 +5,25 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Sep 2020 23:35:02 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2020 23:35:02 -0400</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2020 23:56:48 -0400</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2020 23:56:48 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>How to Ace Technical Engineering Interviews</title>
+        <description>&lt;p&gt;Every engineering job requires different sets of technical skills and experiences. Employers use technical interviews to assess and scope out their best job candidates.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Sep 2020 23:56:11 -0400</pubDate>
+        <link>/how-to-ace-technical-engineering-interviews/</link>
+        <guid isPermaLink="true">/how-to-ace-technical-engineering-interviews/</guid>
+        
+        <tag>Interview</tag>
+        
+        
+        <category>Job Search</category>
+        
+      </item>
     
       <item>
         <title>Technical Assessment Styles in Engineering Interviews</title>
@@ -27,7 +43,7 @@
     
       <item>
         <title>Audience Expertise Categories in Technical Communication</title>
-        <description>&lt;p&gt;Whether you’re writing a client report, selling yourself during an interview, or presenting to executives, understanding your audience’s technical level is crucial for technical communications.&lt;/p&gt;
+        <description>&lt;p&gt;Whether you’re writing a client report, selling yourself during an &lt;a href=&quot;/how-to-ace-technical-engineering-interviews/&quot;&gt;interview&lt;/a&gt;, or presenting to executives, understanding your audience’s technical level is crucial for technical communications.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 09 Sep 2020 20:11:32 -0400</pubDate>
@@ -164,24 +180,6 @@
         
         
         <category>Workplace Tips</category>
-        
-      </item>
-    
-      <item>
-        <title>How to Avoid Silly Calculation Mistakes</title>
-        <description>&lt;p&gt;It’s easy to brush silly mistakes off as a one-time “oopsie”, but it’s much more than that. Habitual carelessness hurts grades, &lt;a href=&quot;/why-university-marks-matter-in-engineering/&quot;&gt;which can close off future opportunities&lt;/a&gt;. But more importantly, stupid mistakes on the job can cost credibility, money, or even lives. Developing good habits and calculation practice can reduce the risk of silly mistakes.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 09 Oct 2019 20:30:50 -0400</pubDate>
-        <link>/how-to-avoid-silly-calculation-mistakes/</link>
-        <guid isPermaLink="true">/how-to-avoid-silly-calculation-mistakes/</guid>
-        
-        <tag>Study</tag>
-        
-        <tag>Grades</tag>
-        
-        
-        <category>School Survival</category>
         
       </item>
     
