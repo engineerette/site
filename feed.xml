@@ -5,8 +5,8 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Sep 2020 21:44:52 -0400</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2020 21:44:52 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2020 23:30:19 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2020 23:30:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -19,6 +19,8 @@
         <guid isPermaLink="true">/how-to-ace-technical-engineering-interviews/</guid>
         
         <tag>Interview</tag>
+        
+        <tag>Communication</tag>
         
         
         <category>Job Search</category>
@@ -50,7 +52,7 @@
         <link>/audience-expertise-categories-in-technical-communication/</link>
         <guid isPermaLink="true">/audience-expertise-categories-in-technical-communication/</guid>
         
-        <tag>Soft Skills</tag>
+        <tag>Communication</tag>
         
         
         <category>Workplace Tips</category>
@@ -65,6 +67,8 @@
         <pubDate>Mon, 17 Aug 2020 21:40:52 -0400</pubDate>
         <link>/professional-voicemail-greeting-guide-for-job-seekers/</link>
         <guid isPermaLink="true">/professional-voicemail-greeting-guide-for-job-seekers/</guid>
+        
+        <tag>Communication</tag>
         
         <tag>Etiquette</tag>
         
@@ -172,7 +176,7 @@
         <link>/5-things-every-junior-engineering-consultant-should-know/</link>
         <guid isPermaLink="true">/5-things-every-junior-engineering-consultant-should-know/</guid>
         
-        <tag>Soft Skills</tag>
+        <tag>Communication</tag>
         
         <tag>Fashion</tag>
         
