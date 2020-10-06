@@ -5,9 +5,29 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Sep 2020 23:30:19 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2020 23:30:19 -0400</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2020 00:40:41 -0400</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2020 00:40:41 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Why Perfectionist Students Struggle in the Workplace</title>
+        <description>&lt;p&gt;Perfectionism is a double-edged sword. On one hand, perfectionists create high-quality outputs and hard workers. On the other hand, perfectionists struggle with impossible expectations and finite resources. While school may be forgiving to negative perfectionist tendencies, the workplace is not.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Oct 2020 12:56:11 -0400</pubDate>
+        <link>/why-perfectionist-students-struggle-in-the-workplace/</link>
+        <guid isPermaLink="true">/why-perfectionist-students-struggle-in-the-workplace/</guid>
+        
+        <tag>Wellness</tag>
+        
+        <tag>Growing Up</tag>
+        
+        
+        <category>School Survival</category>
+        
+        <category>Workplace Tips</category>
+        
+      </item>
     
       <item>
         <title>How to Ace Technical Engineering Interviews</title>
@@ -164,26 +184,6 @@
         
         
         <category>Personal Life</category>
-        
-      </item>
-    
-      <item>
-        <title>5 Things Every Junior Engineering Consultant Should Know</title>
-        <description>&lt;p&gt;Engineer consulting is a common career path for new graduates. Anything from residential construction projects to industrial product design, you can be certain that a consultant firm exists to sell their time and expertise. This is great for engineers starting out because engineering consultant firms offer learning opportunities through a wide range of projects.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 Nov 2019 21:32:23 -0500</pubDate>
-        <link>/5-things-every-junior-engineering-consultant-should-know/</link>
-        <guid isPermaLink="true">/5-things-every-junior-engineering-consultant-should-know/</guid>
-        
-        <tag>Communication</tag>
-        
-        <tag>Fashion</tag>
-        
-        <tag>Money</tag>
-        
-        
-        <category>Workplace Tips</category>
         
       </item>
     
