@@ -5,9 +5,25 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Oct 2020 00:40:41 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2020 00:40:41 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Dec 2020 22:57:03 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Dec 2020 22:57:03 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Technical Issues During Online Exams</title>
+        <description>&lt;p&gt;Exam season has always been stressful. With schools migrating online, exams have followed suit. Now on top of regular exam anxiety, there’s also additional stress from online testing and remote proctoring. With the added layer of technology between you and your exam, more things can go wrong.  For this reason, some students feel more nervous about an online exam.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Dec 2020 19:50:34 -0500</pubDate>
+        <link>/technical-issues-during-online-exams/</link>
+        <guid isPermaLink="true">/technical-issues-during-online-exams/</guid>
+        
+        <tag>Grades</tag>
+        
+        
+        <category>School Survival</category>
+        
+      </item>
     
       <item>
         <title>Why Perfectionist Students Struggle in the Workplace</title>
@@ -163,24 +179,6 @@
         <guid isPermaLink="true">/career-driven-couples-the-long-distance-dilemma/</guid>
         
         <tag>Relationships</tag>
-        
-        
-        <category>Personal Life</category>
-        
-      </item>
-    
-      <item>
-        <title>Lack of Female Friends in Engineering</title>
-        <description>&lt;p&gt;Diverse friendships are crucial for personal development and growth. As a girl in engineering, you may find yourself severely lacking in the female friendship department. Unfortunately, the engineering world doesn’t offer many opportunities to meet other women.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 30 Nov 2019 00:36:15 -0500</pubDate>
-        <link>/lack-of-female-friends-in-engineering/</link>
-        <guid isPermaLink="true">/lack-of-female-friends-in-engineering/</guid>
-        
-        <tag>Relationships</tag>
-        
-        <tag>Femininity</tag>
         
         
         <category>Personal Life</category>
