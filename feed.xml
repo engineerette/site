@@ -5,8 +5,8 @@
     <description>Engineering survival guide</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Dec 2020 20:36:19 -0500</pubDate>
-    <lastBuildDate>Fri, 25 Dec 2020 20:36:19 -0500</lastBuildDate>
+    <pubDate>Fri, 25 Dec 2020 21:32:17 -0500</pubDate>
+    <lastBuildDate>Fri, 25 Dec 2020 21:32:17 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -18,7 +18,17 @@
   &lt;li&gt;catch potential &lt;a href=&quot;/red-flags-in-engineering-interviews/&quot;&gt;red flags&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;hr /&gt;
+&lt;div class=&quot;in-content-ad&quot;&gt;
+    
+    &lt;script async=&quot;&quot; src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+    &lt;!-- In Content --&gt;
+    &lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-4004679572164789&quot; data-ad-slot=&quot;7791301556&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
+    &lt;script&gt;
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    &lt;/script&gt;
+
+    
+    &lt;/div&gt;
 
 &lt;h2 id=&quot;how-to-ask-smart-questions-to-ask-at-the-end-of-a-job-interview&quot;&gt;How to ask smart questions to ask at the end of a job interview&lt;/h2&gt;
 

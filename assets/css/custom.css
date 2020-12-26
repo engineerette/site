@@ -192,6 +192,10 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 #leaderboard-ad { margin-bottom: 2rem; text-align: center; }
 
+.after-content-ad { margin-bottom: 2rem; }
+
+.in-content-ad { margin-bottom: 2rem; }
+
 .sidebar { will-change: min-height; }
 
 .sidebar-section { box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.15); }
@@ -215,10 +219,6 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 .listrelated .card-block { padding: 0.5rem; }
 
 .listrelated .card-title { margin-bottom: 0px; }
-
-.after-content-ad { margin: 0 0 1.5rem 0; }
-
-.in-content-ad { margin: 0 0 1.5rem 0; }
 
 .beforefooter { padding: 0px; height: auto; margin-top: 0px; background: #ffffff; }
 
