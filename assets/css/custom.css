@@ -196,9 +196,11 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .in-content-ad { margin-bottom: 2rem; }
 
+.contact-form { margin-bottom: 2rem; }
+
 .sidebar { will-change: min-height; }
 
-.sidebar-section { box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.15); }
+.sidebar-section { box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.15); text-align: center; }
 
 .sidebar__inner { transform: translate(0, 0); /* For browsers don't support translate3d. */ transform: translate3d(0, 0, 0); will-change: position, transform; }
 
