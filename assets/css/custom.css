@@ -162,11 +162,13 @@ ul.tag-tags li a:hover { background: rgba(230, 230, 250, 0.7); text-decoration: 
 
 .row { padding-top: 5px; padding-bottom: 5px; }
 
+.card .row { padding-top: 0px; padding-bottom: 0px; }
+
 .listrecent h4.card-text { margin-bottom: 20px; }
 
 .bottompagination span.navigation a { background: lavender; color: #333; padding: 5px; border-radius: 3px; text-transform: none; font-weight: 500; letter-spacing: 0; min-width: 100px; display: inline-block; }
 
-.bottompagination { padding: 15px 0px; }
+.bottompagination { padding-bottom: 2rem; }
 
 figure { display: block; text-align: center; }
 
@@ -208,19 +210,25 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .sidebar #mc_embed_signup .button { background: #7133C5 !important; }
 
-@media (max-width: 767px) { .footer { text-align: center; } .footer-widget { margin-bottom: 1rem; margin-top: 1rem; } }
-
 .listfeaturedtag .thumbnail { background-position: 50% 50% !important; }
 
-.listrelated .wrapthumbnail { height: 150px; flex: 0 0 auto; padding: 0px; }
+.card { border-radius: 4px; margin-bottom: 30px; box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.15); border: 0; }
+
+.thumbnail { background-position: 50% 50% !important; }
+
+.listfeaturedtag .card { margin-bottom: 2.5rem; }
 
 .listrelated .card { border-radius: 2px; padding-left: 0; margin-bottom: 15px; align-items: center; text-align: center; width: 100%; box-shadow: 0 0px 8px rgba(0, 0, 0, 0.15); }
 
-.listrelated .thumbnail { background-size: cover; height: 100%; display: block; background-position: 50% 50% !important; background-origin: border-box !important; border-top-left-radius: 2px; }
+.listrelated .thumbnail { background-size: cover; height: 100%; display: block; background-origin: border-box !important; border-top-left-radius: 2px; }
+
+.listrelated .wrapthumbnail { height: 10rem; flex: 0 0 auto; padding: 0px; }
 
 .listrelated .card-block { padding: 0.5rem; }
 
 .listrelated .card-title { margin-bottom: 0px; }
+
+.listrelated .card { height: auto; }
 
 .beforefooter { padding: 0px; height: auto; margin-top: 0px; background: #ffffff; }
 
